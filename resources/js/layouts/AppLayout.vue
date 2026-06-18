@@ -13,7 +13,9 @@
             <hr />
 
             <p>Dashboard</p>
-            <p>Categories</p>
+            <router-link to="/app/categories" style="color: white">
+                Categories
+            </router-link>
             <p>Products</p>
             <p>Brands</p>
             <p>Units</p>
